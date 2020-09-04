@@ -1,7 +1,7 @@
 ## Lab 1 Assignment:
 ### Researching and Reporting on Database Tools
-#### Name:
-#### Date:
+#### Name: Andre Hance
+#### Date: 9/4/20
 
 ### Article 1
  -  Article name.
