@@ -28,13 +28,13 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+ - Does TikTok Really Pose a Risk to US National Security?
 
 -  Reference or article citation.
- - Your answer here
+ - https://www.wired.com/story/tiktok-ban-us-national-security-risk/
 
 - Briefly describe the article's premise.
- - Your answer here
+ - 
 
 - What is the ethical concern, in your opinion?
  - Your answer here
