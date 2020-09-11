@@ -5,25 +5,25 @@
 
 ### Article 1
  -  Article name.
- - Your answer here
+ - Facebook Security Breach Exposes Accounts of 50 Million Users
 
 -  Reference or article citation.
- - Your answer here
+ - https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
 
 - Briefly describe the article's premise.
- - Your answer here
+ - The article explains how 50 million users of Facebook had there data compromised by hackers exploiting a security feature of Facebook.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - Facebooks neglect to acknowledge the security concerns of its platform.
 
 - What data is being manipulated in the article?
- - Your answer here
+ - Users account data
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - Facebook did an analysis on how the data was hacked, and then came to a fix to path the exploit.
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+ - The hackers would lose from Facebook patching, however they had already one by gaining access to the data for what ever time period they did. The hackers could gain lots of knowledge about the users, and could sell there data.
 
 
 ### Article 2
