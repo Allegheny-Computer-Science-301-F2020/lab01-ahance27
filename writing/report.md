@@ -40,10 +40,10 @@
  - TikTok being a Chinese owned company could misuse the data it gained from its American users, and it has been reported that the app download unnecessary software.  
 
 - What data is being manipulated in the article?
- - Your answer here
+ - Possibly Americans data, even USA government data.
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - China can use this data to manipulate American data for elections possibly, or other important procedures.
 
 - Who stands to lose or to gain something from this form of analysis?
  - Your answer here
