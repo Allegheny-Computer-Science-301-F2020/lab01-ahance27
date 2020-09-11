@@ -46,7 +46,7 @@
  - China can use this data to manipulate American data for elections possibly, or other important procedures.  
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+ - China would gain, USA would lose.
 
 
 
