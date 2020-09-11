@@ -43,7 +43,7 @@
  - Possibly Americans data, even USA government data.
 
 - Briefly describe the analysis, as you understand it.
- - China can use this data to manipulate American data for elections possibly, or other important procedures.
+ - China can use this data to manipulate American data for elections possibly, or other important procedures.  
 
 - Who stands to lose or to gain something from this form of analysis?
  - Your answer here
