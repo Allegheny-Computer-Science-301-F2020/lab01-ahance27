@@ -34,10 +34,10 @@
  - https://www.wired.com/story/tiktok-ban-us-national-security-risk/
 
 - Briefly describe the article's premise.
- - 
+ - TikTok could be a danger to national security because it could be used as a trojan horse for Chinese communist party's demands.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - TikTok being a Chinese owned company could misuse the data it gained from its American users, and it has been reported that the app download unnecessary software.
 
 - What data is being manipulated in the article?
  - Your answer here
